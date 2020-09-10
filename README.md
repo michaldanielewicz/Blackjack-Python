@@ -10,12 +10,11 @@ It is a comparing card game between one or more players and a dealer, where each
 It is played with one or more decks of 52 cards, and is the most widely played casino banking game in the world.
 
 ## Setup
-> Describe how to install / setup your local environement / add link to demo version.
+> setup steps:
 
 ## Features
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Add multiplayer mode (local)
 
 ## Status
 Project is: _finished_
